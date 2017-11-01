@@ -14,7 +14,7 @@
   "dependencies": {
     "aabb-3d": "^0.1.0",
     "collide-3d-tilemap": "^1.0.0",
-    "gl-matrix": "^2.4.0",
+    "gl-matrix": "2.0.0",
     "inherits": "^2.0.3",
     "interact": "0.0.2",
     "kb-controls": "^0.2.0",
